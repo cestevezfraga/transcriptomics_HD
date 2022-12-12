@@ -1,3 +1,4 @@
+# Developed by Angelika Zarkali https://github.com/AngelikaZa
 # Function to generate a permutation map from a set of cortical regions of interest to itself, 
 # while (approximately) preserving contiguity and hemispheric symmetry.
 # The function is based on a rotation of the FreeSurfer projection of coordinates
