@@ -1,4 +1,5 @@
 # Run spin permutations
+# Developed by Angelika Zarkali https://github.com/AngelikaZa
 
 ## In Rstudio 
 
