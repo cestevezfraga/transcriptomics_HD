@@ -1,5 +1,6 @@
 
 #Script to register mean diffusivity images in native space into MNI space using the subject-specific T1 with NiftyReg
+#Developed by Christopher Parker
 
 #INPUT: T1, DWI (eg MD maps)
 #all.txt is a file with all the subject numbers
