@@ -1,7 +1,4 @@
-# install.packages
-# install.packages("radiant")
-# install.packages("Rtools")
-install.packages("wesanderson")
+#Developed by Beatrice Costa https://github.com/bbeacosta/PhD-thesis
 
 #library
 library(ggplot2)
