@@ -1,3 +1,4 @@
+# Developed by Angelika Zarkali https://github.com/AngelikaZa  
 # Function to generate a p-value for the spatial correlation between two parcellated cortical surface maps, 
 # using a set of spherical permutations of regions of interest (which can be generated using the function "rotate_parcellation").
 # The function performs the permutation in both directions; i.e.: by permute both measures, 
