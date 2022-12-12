@@ -1,4 +1,5 @@
 % Script for bootstrapping genetic correlations
+% Developed by Peter McColgan & Carlos Estevez-Fraga
 
 
 cd '/Users/charlie/Desktop/phd_fromaug/cs2_ANALYSIS/VBM/AIBS_FTD/wtHTT_development/developmental_genes/roi'
