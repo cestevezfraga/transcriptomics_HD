@@ -1,3 +1,4 @@
+# Updated for Peter McColgan's original file
 
 setwd("/Users/charlie/Desktop/phd_fromaug/cs2_ANALYSIS/VBM/AIBS_FTD/gene_ontology")
 
